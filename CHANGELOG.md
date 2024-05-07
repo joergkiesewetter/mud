@@ -1,3 +1,23 @@
+## Version 2.0.10
+
+Release date: Tue May 07 2024
+
+### Patch changes
+
+**[chore: upgrade to ejs 3.1.10 (#2786)](https://github.com/latticexyz/mud/commit/4e4e9104e84a7cb7d041d2401f0a937e06251985)** (@latticexyz/world-modules, @latticexyz/store, @latticexyz/cli)
+
+Removed the unused `ejs` dependency.
+
+**[chore: upgrade to ejs 3.1.10 (#2786)](https://github.com/latticexyz/mud/commit/4e4e9104e84a7cb7d041d2401f0a937e06251985)** (@latticexyz/world)
+
+Upgraded the `ejs` dependency to 3.1.10.
+
+**[fix(common): extend OP contracts, add redstone ones (#2792)](https://github.com/latticexyz/mud/commit/51b137d3498a5d6235938cb93dc06ed0131fd7be)** (@latticexyz/common)
+
+Added OP predeploy contracts for Redstone and Garnet chain configs and added chain-specific contracts for Redstone chain config.
+
+---
+
 ## Version 2.0.9
 
 Release date: Wed May 01 2024
